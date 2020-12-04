@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/bootstrap/dist/css/bootstrap.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -120,5 +121,8 @@
       }
     }
   },
-  "defaultProject": "MyFirstFirebaseProject"
+  "defaultProject": "MyFirstFirebaseProject",
+  "cli": {
+    "analytics": "be5c58e4-0497-4f81-9db6-b5a36a974fd4"
+  }
 }
