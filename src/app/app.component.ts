@@ -15,9 +15,10 @@ export class AppComponent {
      apiKey: 'AIzaSyCVJkqmgFjVbNQD1fATaYmYYY2epZuO2NA',
      authDomain: 'bookshelvesproject-5a82c.firebaseapp.com',
      projectId: 'bookshelvesproject-5a82c',
-     storageBucket: 'bookshelvesproject-5a82c.appspot.com',
+     storageBucket: 'gs://bookshelvesproject-5a82c.appspot.com',
      messagingSenderId: '709448464169',
      appId: '1:709448464169:web:6092b33fdff15bd68ba938',
+	 databaseURL: "https://bookshelvesproject-5a82c-default-rtdb.firebaseio.com/",
      measurementId: 'G-7WMEGSMVND'
     };
     // Initialize Firebase
